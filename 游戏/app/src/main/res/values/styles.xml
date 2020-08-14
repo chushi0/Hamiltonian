@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="GameButton" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:background">?android:attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+</resources>
